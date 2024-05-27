@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688097497174",
+    "project_id": "directunlockerye-3bd6a",
+    "storage_bucket": "directunlockerye-3bd6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688097497174:android:145739556834e84efcabf7",
+        "android_client_info": {
+          "package_name": "com.example.direct_unlocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALXQI5FgoT1hWQKhrh-Alg-P3QXaVY5rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
